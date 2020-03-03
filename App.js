@@ -48,4 +48,8 @@ const styles = StyleSheet.create({
         //alignItems: 'center',
         //justifyContent: 'center',
     },
+    content: {
+        alignItems: 'center',
+        justifyContent: 'center',
+    }
 });

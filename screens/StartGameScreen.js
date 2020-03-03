@@ -90,6 +90,8 @@ const styles = StyleSheet.create({
         flex: 1,
         padding: 10,
         alignItems: 'center',
+        justifyContent: 'center',
+        paddingBottom: 200,
     },
     title: {
         //color: 'white',
